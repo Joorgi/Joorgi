@@ -19,4 +19,4 @@
   <img align="center" alt="" height="40" with="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
 </div>
 
-! [Snake animation](https://github.com/rafaballerini/rafaballerini2/blop/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/joorgi/blop/output/github-contribution-grid-snake.svg)
