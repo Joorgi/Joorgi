@@ -18,5 +18,3 @@
   <img align="center" alt="" height="40" with="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
   <img align="center" alt="" height="40" with="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
 </div>
-
-![Snake animation](https://github.com/rafaballerini/rafaballerini/joorgi/blob/output/github-contribution-grid-snake.svg)
