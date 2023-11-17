@@ -20,5 +20,5 @@
 </div>
 
 <div>
-  <img height="180em" src="https://raw.githubusercontent.com/joorgi/joorgi/output/github-snake.svg" />
+  <img height="180em" src="https://raw.githubusercontent.com/joorgi/joorgi/output/github-snake-dark.svg" />
 </div>
