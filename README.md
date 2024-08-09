@@ -1,6 +1,6 @@
 ### Hello! I'm Jose, Web app developer
 
-- 🔭 I am currently working at <a href='https://koibox.cloud'>Software Koibox</a> as a Full Stack Developer
+- 🔭 I am currently working as a Full Stack Developer at <a href='https://koibox.cloud'>Software Koibox</a> 
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joorgi&count_private=true&show_icons=true&include_all_commits=true&locale=es&theme=tokyonight&hide_border=true" />
