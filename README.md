@@ -3,8 +3,8 @@
 - 🔭 I am currently working as a Full Stack Developer at <a href='https://koibox.cloud'>Software Koibox</a> 
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joorgi&count_private=true&show_icons=true&include_all_commits=true&locale=es&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joorgi&layout=compact&langs_count=16&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Joorgi&count_private=true&show_icons=true&include_all_commits=true&locale=es&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Joorgi&layout=compact&langs_count=16&theme=tokyonight&hide_border=true" />
 </div>
 
 <div style="display: inline_block"><br>
